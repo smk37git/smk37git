@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Main</h1>
 <h3 align="center">🎓🐯Sophomore at the University of Missouri - Columbia🐯🎓</h3>
 
-- 🌱 I’m learning about Information Technology through the Mizzou School of Engineering**INFOTC Courses**
+- 🌱 I’m learning about **Information Technology** through the Mizzou School of Engineering
 
 - 👨‍💻 I'm currently completing INFOTC-2040 [See My Coursework!](https://github.com/smk37git/INFOTC-2040)
 
