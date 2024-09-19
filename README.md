@@ -3,11 +3,11 @@
 
 - 🌱 I’m learning about Information Technology through the Mizzou School of Engineering**INFOTC Courses**
 
-- 👨‍💻 I'm currently completing INFOTC-2040 [INFOTC-2040](https://github.com/smk37git/INFOTC-2040)
+- 👨‍💻 I'm currently completing INFOTC-2040 [See My Coursework!](https://github.com/smk37git/INFOTC-2040)
 
-- 🌐 I'm currently completing INFOTC-3530 [INFOTC-3530](https://github.com/smk37git/INFOTC-3530)
+- 🌐 I'm currently completing INFOTC-3530 [See My Coursework!](https://github.com/smk37git/INFOTC-3530)
 
-- 💻 I completed INFOTC-1040 [INFOTC-1040](https://github.com/smk37git/INFOTC-1040)
+- 💻 I completed INFOTC-1040 [See My Coursework!](https://github.com/smk37git/INFOTC-1040)
 
 - 👨‍💻 All of my projects are available at [https://github.com/smk37git](https://github.com/smk37git)
 
