@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available on my [GitHub Repositories!](https://github.com/smk37git?tab=repositories)
 
-- 💬 Ask me about **Why I decided to pursue Information Technology!**
+- 💬 Ask me about: **Why I decided to pursue Information Technology!**
 
 - 📫 How to reach me **sdmain3@gmail.com**
 
 - 📝 Know about my experiences [on my LinkedIn!](https://www.linkedin.com/in/sebastian-main-6a4799224/overlay/1726777582848/single-media-viewer/?profileId=ACoAADhbbZwBW9GrMYykBIEaEmsTwWo_BSO1usk)
 
-- ⚡ Fun fact **I built my first computer when I was 10 years old!**
+- ⚡ Fun fact: **I built my first computer when I was 10 years old!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
