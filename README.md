@@ -3,19 +3,19 @@
 
 - 🌱 I’m learning about **Information Technology** through the Mizzou School of Engineering
 
-- 👨‍💻 I'm currently completing INFOTC-2040 [See My Coursework!](https://github.com/smk37git/INFOTC-2040)
+- 👨‍💻 I'm currently completing INFOTC-2040 - [See My Coursework!](https://github.com/smk37git/INFOTC-2040)
 
-- 🌐 I'm currently completing INFOTC-3530 [See My Coursework!](https://github.com/smk37git/INFOTC-3530)
+- 🌐 I'm currently completing INFOTC-3530 - [See My Coursework!](https://github.com/smk37git/INFOTC-3530)
 
-- 💻 I completed INFOTC-1040 [See My Coursework!](https://github.com/smk37git/INFOTC-1040)
+- 💻 I completed INFOTC-1040 - [See My Coursework!](https://github.com/smk37git/INFOTC-1040)
 
-- 👨‍💻 All of my projects are available at [https://github.com/smk37git](https://github.com/smk37git)
+- 👨‍💻 All of my projects are available on my [GitHub Repositories!](https://github.com/smk37git?tab=repositories)
 
 - 💬 Ask me about **Why I decided to pursue Information Technology!**
 
 - 📫 How to reach me **sdmain3@gmail.com**
 
-- 📝 Know about my experiences [https://www.linkedin.com/in/sebastian-main-6a4799224/overlay/1726777582848/single-media-viewer/?profileId=ACoAADhbbZwBW9GrMYykBIEaEmsTwWo_BSO1usk](https://www.linkedin.com/in/sebastian-main-6a4799224/overlay/1726777582848/single-media-viewer/?profileId=ACoAADhbbZwBW9GrMYykBIEaEmsTwWo_BSO1usk)
+- 📝 Know about my experiences [on my LinkedIn!](https://www.linkedin.com/in/sebastian-main-6a4799224/overlay/1726777582848/single-media-viewer/?profileId=ACoAADhbbZwBW9GrMYykBIEaEmsTwWo_BSO1usk)
 
 - ⚡ Fun fact **I built my first computer when I was 10 years old!**
 
