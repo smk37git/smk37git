@@ -7,7 +7,7 @@
 
 - 🌐 I'm currently completing INFOTC-3530 - [See My Coursework!](https://github.com/smk37git/INFOTC-3530)
 
-- 💻 I completed INFOTC-1040 - [See My Coursework!](https://github.com/smk37git/INFOTC-1040)
+- 💻 I've completed INFOTC-1040 - [See My Coursework!](https://github.com/smk37git/INFOTC-1040)
 
 - 👨‍💻 All of my projects are available on my [GitHub Repositories!](https://github.com/smk37git?tab=repositories)
 
