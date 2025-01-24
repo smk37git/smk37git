@@ -3,9 +3,9 @@
 
 - 🌱 I’m learning about **Information Technology** through the Mizzou School of Engineering
 
-- 👨‍💻 I'm currently completing INFOTC-2040 - [See My Coursework!](https://github.com/smk37git/INFOTC-2040)
+- 👨‍💻 I've completed INFOTC-2040 - [See My Coursework!](https://github.com/smk37git/INFOTC-2040)
 
-- 🌐 I'm currently completing INFOTC-3530 - [See My Coursework!](https://github.com/smk37git/INFOTC-3530)
+- 🌐 I've completed INFOTC-3530 - [See My Coursework!](https://github.com/smk37git/INFOTC-3530)
 
 - 💻 I've completed INFOTC-1040 - [See My Coursework!](https://github.com/smk37git/INFOTC-1040)
 
