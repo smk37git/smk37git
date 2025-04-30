@@ -40,4 +40,7 @@
   <a target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
   </a>
+  <a target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
+  </a>
 </p>
