@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://icons8.com/icon/WZmdy8iimo15/bash" alt="bash" width="40" height="40"/> 
+    <img src="https://img.icons8.com/?size=100&id=WZmdy8iimo15&format=png&color=FFFFFF" alt="bash" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
