@@ -3,13 +3,15 @@
 
 - 🌱 I’m learning about **Information Technology** through the Mizzou School of Engineering
 
-- 💻 I coded my own website using the Django Framework - [View it here!](https://bomby.us)
+- ⚙️ I coded my own website using the Django Framework - [View it here!](https://bomby.us)
+
+- 💻 I've completed INFOTC-1040 - [See My Coursework!](https://github.com/smk37git/INFOTC-1040)
 
 - 👨‍💻 I've completed INFOTC-2040 - [See My Coursework!](https://github.com/smk37git/INFOTC-2040)
 
-- 🌐 I've completed INFOTC-3530 - [See My Coursework!](https://github.com/smk37git/INFOTC-3530)
+- 🔗 I've completed INFOTC-2830 - [See my Final Project!](https://github.com/smk37git/INFOTC-2830-Final-Project) or [See some Coursework!](https://github.com/smk37git/INFOTC-2830)
 
-- 💻 I've completed INFOTC-1040 - [See My Coursework!](https://github.com/smk37git/INFOTC-1040)
+- 🌐 I've completed INFOTC-3530 - [See My Coursework!](https://github.com/smk37git/INFOTC-3530)
 
 - 👨‍💻 All of my projects are available on my [GitHub Repositories!](https://github.com/smk37git?tab=repositories)
 
