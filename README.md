@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sebastian Main 👋</h1>
-<h3 align="center">🎓🐯Sophomore at the University of Missouri - Columbia🐯🎓</h3>
+<h3 align="center">🎓🐯Senior at the University of Missouri - Columbia🐯🎓</h3>
 
 - 🌱 I’m learning about **Information Technology** through the Mizzou School of Engineering
 
